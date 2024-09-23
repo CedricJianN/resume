@@ -45,7 +45,7 @@ function App() {
                 <h4><li>Python and Figma</li></h4>
                   <ul>
                     <p>- I have learned the fundamentals of Python, including inputs, operations, syntax, variables, functions, and loops. </p>
-                    <p>- I have developed experience with Figma for creating wireframes, which has deepened my understanding of UI/UX design./p>
+                    <p>- I have developed experience with Figma for creating wireframes, which has deepened my understanding of UI/UX design. </p>
                   </ul>
             </div>
 
