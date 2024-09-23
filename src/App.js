@@ -44,8 +44,8 @@ function App() {
               <h3>First Year (2022 - 2023)</h3>
                 <h4><li>Python and Figma</li></h4>
                   <ul>
-                    <p>- I have learned the fundamentals of Python, including inputs, operations, syntax, variables, functions, and loops. </p>
-                    <p>- I have developed experience with Figma for creating wireframes, which has deepened my understanding of UI/UX design. </p>
+                    <p>- In my first year, I learned Python basics, including variables, functions, loops, and syntax, enabling me to create functional outputs. </p>
+                    <p>-  I also used Figma to design website wireframes, enhancing my understanding of user interface and user experience design.. </p>
                   </ul>
             </div>
 
@@ -53,9 +53,8 @@ function App() {
               <h3>Second Year (2023 - 2024)</h3>
                 <h4><li>MySQL, HTML, CSS, and JavaScript</li></h4>
                   <ul>
-                    <p>- Studied programming languages like MySQL, HTML, CSS, and JavaScript.</p>
-                    <p>- Learned database creation, querying, and graph generation using MySQL.</p>
-                    <p>- Specialized in structuring and styling web content with HTML and CSS, utilizing CodePen to build interactive projects.</p>
+                    <p>- During my second year, I learned JavaScript, MySQL, HTML, and CSS.</p>
+                    <p>- We focused on creating interactive projects, handling databases with MySQL, and using CodePen to combine these technologies for web development.</p>
                   </ul>
             </div>
 
@@ -63,9 +62,8 @@ function App() {
               <h3>Third Year (2024 - Present)</h3>
                 <h4><li>HTML, CSS, JavaScript, Bootstrap, and REACTJS</li></h4>
                   <ul>
-                    <p>- Focused on advanced HTML, CSS, JavaScript, Bootstrap, and React.js.</p>
-                    <p>- Developed dynamic websites and worked with contemporary tools like Vercel and Node.js.</p>
-                    <p>- Deployed projects on GitHub and replicated web designs to improve web development skills.</p>
+                    <p>- In my third year, I advanced my web development skills by learning Bootstrap and React.js to build responsive layouts and dynamic user interfaces.</p>
+                    <p>- We also deployed projects using tools like Vercel and GitHub.</p>
                   </ul>
             </div>
         </div>
