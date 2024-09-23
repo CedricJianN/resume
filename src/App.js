@@ -44,8 +44,8 @@ function App() {
               <h3>First Year (2022 - 2023)</h3>
                 <h4><li>Python and Figma</li></h4>
                   <ul>
-                    <p>- Learned the basics of Python, covering inputs, operations, sysntax, variables, functions, and loops.</p>
-                    <p>- Gained experience with Figma for designing wireframes, which enhanced understanding of UI/UX design.</p>
+                    <p>- I have learned the fundamentals of Python, including inputs, operations, syntax, variables, functions, and loops. </p>
+                    <p>- I have developed experience with Figma for creating wireframes, which has deepened my understanding of UI/UX design./p>
                   </ul>
             </div>
 
@@ -55,7 +55,7 @@ function App() {
                   <ul>
                     <p>- Studied programming languages like MySQL, HTML, CSS, and JavaScript.</p>
                     <p>- Learned database creation, querying, and graph generation using MySQL.</p>
-                    <p>- Focused on web content structuring and styling with HTML and CSS, using CodePen to create interactive projects.</p>
+                    <p>- Specialized in structuring and styling web content with HTML and CSS, utilizing CodePen to build interactive projects.</p>
                   </ul>
             </div>
 
